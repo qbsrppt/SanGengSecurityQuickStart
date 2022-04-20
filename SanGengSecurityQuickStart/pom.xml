@@ -8,6 +8,8 @@
     <artifactId>SanGengSecurityQuickStart</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+
+<!--改动一次文件-->
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
